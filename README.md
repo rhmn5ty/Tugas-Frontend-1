@@ -3,6 +3,8 @@ Tugas Frontend #1 GDSC oleh Rahman Satya (169)
 
 Website saya menampilkan 10 film bioskop yang tayang pada bulan September ini dengan memiliki fitur search bar dan ketika diklik setiap judul film akan masuk ke link page baru untuk menampilkan detail film tersebut yang berisi data rating dan deskripsi film. Data diambil berdasarkan web movieinsider.com
 
+Website bisa dikunjungi melalui: [September's Top Movies Website](https://rhmn5ty.github.io/)
+
 Nama saya Rahman Satya dari ITB dan berikut adalah hasil screenshot Website Movie List saya untuk GDSC ITB ini:
 
 Berikut adalah tampilan halaman utama website saya:
